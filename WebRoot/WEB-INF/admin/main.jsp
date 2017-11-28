@@ -11,7 +11,6 @@
 <link href="${dwz }/themes/default/style.css" rel="stylesheet" type="text/css" media="screen"/>
 <link href="${dwz }/themes/css/core.css" rel="stylesheet" type="text/css" media="screen"/>
 <!--[if IE]>
-<link href="${dwz }/themes/css/ieHack.css" rel="stylesheet" type="text/css" media="screen"/>
 <![endif]-->
 
 <!--[if lt IE 9]><script src="${dwz }/js/speedup.js" type="text/javascript"></script><script src="${dwz }/js/jquery-1.11.3.min.js" type="text/javascript"></script><![endif]-->
