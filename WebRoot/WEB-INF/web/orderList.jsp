@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>订单页面</title>
+<title>NIIT青岛网上商城-订单页面</title>
 <link href="${shop}/css/common.css" rel="stylesheet" type="text/css" />
 <link href="${shop}/css/cart.css" rel="stylesheet" type="text/css" />
 <link href="${shop}/css/product.css" rel="stylesheet" type="text/css" />

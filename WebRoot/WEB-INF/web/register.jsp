@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>会员注册</title>
+<title>NIIT青岛网上商城-会员注册</title>
 <link href="${shop}/css/common.css" rel="stylesheet" type="text/css" />
 <link href="${shop}/css/register.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="${shop}/js/jquery-1.8.3.js"></script>

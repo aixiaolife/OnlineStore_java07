@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>考拉商城</title>
+<title>NIIT青岛网上商城</title>
 <link href="${shop}/css/slider.css"	rel="stylesheet" type="text/css" />
 <link href="${shop}/css/common.css"	rel="stylesheet" type="text/css" />
 <link href="${shop}/css/index.css"	rel="stylesheet" type="text/css" />
