@@ -46,20 +46,13 @@
 			</div>
 			<div class="login_banner"><img src="${dwz }/themes/default/images/login_banner.jpg" /></div>
 			<div class="login_main">
-				<ul class="helpList">
-					<li><a href="#">下载驱动程序</a></li>
-					<li><a href="#">如何安装密钥驱动程序？</a></li>
-					<li><a href="#">忘记密码怎么办？</a></li>
-					<li><a href="#">为什么登录失败？</a></li>
-				</ul>
 				<div class="login_inner">
-					<p>您可以使用 xxxxxxx.</p>
-					<p>您还可以使用 xxxxxxx.</p>
+					<p>NIIT网上商城：青岛大学2018届NIIT实训项目</p>
 				</div>
 			</div>
 		</div>
 		<div id="login_footer">
-			Copyright &copy; 2010-2016 Powered by kaola (939313737). All Rights Reserved.
+			Copyright &copy; 2014-2018 Powered by NIIT . All Rights Reserved.
 		</div>
 	</div>
 </body>

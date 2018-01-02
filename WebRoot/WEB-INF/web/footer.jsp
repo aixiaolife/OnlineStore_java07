@@ -21,6 +21,6 @@
 		</ul>
 	</div>
 	<div class="span24">
-		<div class="copyright">Copyright © 20010-2016 网上商城 版权所有</div>
+		<div class="copyright">Copyright © 2014-2018 NIIT 版权所有</div>
 	</div>
 </div>

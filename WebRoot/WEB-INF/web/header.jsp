@@ -4,7 +4,8 @@
 <div class="container header">
 		<div class="span5">
 			<div class="logo">
-				<a><img src="${shop}/image/r___________renleipic_01/logo.jpg" alt="网上商城" /> </a>
+				<h2>NIIT青岛网上商城</h2>
+				<h2>QD.NIITSHOP.COM</h2>
 			</div>
 		</div>
 		<div class="span9">
@@ -12,7 +13,7 @@
 				<img src="${shop}/image/header.jpg" width="320" height="50" alt="正品保障" title="正品保障"/>
 			</div>
 		</div>
-	<div class="span10 last">
+	<div class="span19 last">
 		<div class="topNav clearfix">
 			<ul>
 				<c:if test="${s_user == null }">
@@ -41,9 +42,6 @@
 		</div>
 		<div class="cart">
 			<a href="${ctx}/toCart.html">购物车(${fn:length(s_cart)})</a>
-		</div>
-		<div class="phone">
-			客服热线: <strong>029-83145678</strong>
 		</div>
 	</div>
 	<div class="span24">

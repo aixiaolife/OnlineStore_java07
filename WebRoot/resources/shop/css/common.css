@@ -800,7 +800,7 @@ div.header .cart {
 	height: 28px;
 	line-height: 28px;
 	_display: inline;
-	float: left;
+	float: right;
 	padding-left: 30px;
 	margin-left: 80px;
 	margin-bottom: 4px;
