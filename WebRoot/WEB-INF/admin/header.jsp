@@ -9,10 +9,10 @@
 			<li><a href="${ctx }/admin/logout.html">退出</a></li>
 		</ul>
 		<ul class="themeList" id="themeList">
-			<li theme="default"><div class="selected">蓝色</div></li>
+			<li theme="default"><div>蓝色</div></li>
 			<li theme="green"><div>绿色</div></li>
 			<li theme="purple"><div>紫色</div></li>
-			<li theme="silver"><div>银色</div></li>
+			<li theme="silver"><div class="selected">银色</div></li>
 			<li theme="azure"><div>天蓝</div></li>
 		</ul>
 	</div>
