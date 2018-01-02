@@ -68,6 +68,7 @@ public class BaseDao<T>{
 	}
 	
 	/**
+	 * http://jinyanliang.iteye.com/blog/897612
 	 * 分页查询
 	 * @param hql
 	 * @param args
