@@ -1,4 +1,4 @@
-# OnlineStore_java07
+# 青岛niit网上商城
 2017 Java商城项目
 1、技术语言:JAVA
 2、数据库：mysql5.5
